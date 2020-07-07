@@ -1,6 +1,6 @@
 # Roulette
 
-The crossplatform dotnet (.NET) core console game with the pseudo-graphic spinning wheel, which will pick up the name of winner from the list in the 'names.txt' file.
+The cross-platform Dotnet (.NET) core console game with the pseudo-graphic spinning wheel, which will pick up the name of winner from the list in the 'names.txt' file.
 
 ## Build and run the programm
 
