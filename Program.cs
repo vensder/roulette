@@ -32,7 +32,7 @@ class Roulette
                 {
                     Thread.Sleep(50 + i*5);
                     Console.Write(animation[i % 4]);
-                    Console.Write($"{readText[i % readText.Length]}          ");
+                    Console.Write($"{readText[i % readText.Length]}             ");
                     Console.SetCursorPosition(origCol, origRow);
                 }
                 Console.WriteLine("                          ");
